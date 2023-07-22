@@ -1,0 +1,18 @@
+.home{
+    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), 
+    url(bg.jpg);
+    height: fit-content;
+    background-position: center center;
+    background-size: cover;
+    padding-bottom: 120px;
+}
+
+.btt:hover .aa{
+    color: white;
+}
+.aa{
+    color: #198754;
+}
+.btn-outline-success:hover .aa{
+    color: white;
+}
